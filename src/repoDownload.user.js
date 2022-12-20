@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        repoDownload
 // @namespace   Scriptz (https://github.com/d3ward/scriptz)
-// @include      *://github.com/*/*
+// @match      https://github.com/*/*
 // @grant       none
 // @version     1.0
 // @author      Eduard Ursu ( d3ward )
